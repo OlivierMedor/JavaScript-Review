@@ -36,7 +36,7 @@ contains('Colt', names, function(yes){
     console.log('Colt is not in the list');
   }
 });
-
+cb(str)
 
 
 
